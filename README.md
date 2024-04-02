@@ -1,4 +1,4 @@
-![HeadMaster](?https://photos.google.com/u/1/photo/AF1QipOriuKscL_m22tKtFrHBIPMxyUg5IewEuqKnRLY)
+<p align="centre"><img src="https://github.com/10kiyo/10kiyo/blob/main/IMG_3963.png">
 <h1 align="center">Hi 👋, I'm Eki Yogawanto</h1>
 <h3 align="center">Data Anaylst | Teacher | Beginer Developer</h3>
 
